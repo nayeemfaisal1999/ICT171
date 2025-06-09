@@ -1,6 +1,6 @@
-FaisalPortfolio – Cloud Server Project
+# FaisalPortfolio – Cloud Server Project 🌐
 
-**By: Nayeem Faisal  
+**By:** Nayeem Faisal  
 **Unit:** ICT171 – Introduction to Server Environments and Architectures  
 **Student ID:** 35162293  
 
