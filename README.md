@@ -21,7 +21,10 @@ I built the front-end with HTML, CSS and JavaScript, served it with Apache, and 
 - GitHub for version control  
 
 ---
+## Domain & IP
 
+- Domain: https://35162293.com  
+- IP Address: 170.64.252.201
 ## 📁 Files Included
 - `site/` – full website source  
 - `scripts/backup-site.sh` – compresses `/var/www/html` into `/root/backups` with a timestamp  
