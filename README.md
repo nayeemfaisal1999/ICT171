@@ -12,6 +12,10 @@ I built the front-end with HTML, CSS and JavaScript, served it with Apache, and 
 
 ---
 
+
+## Video Presentation 
+Drive link - https://drive.google.com/drive/folders/19ZxspOGaVGuCwd0rT8cu-I0a14v5NgeJ?fbclid=IwAR2-lQEurH45HKtJj0hR-Nw85NL_lYoRrarRBUvtscuJjB-ah2vHIRMEok0
+
 ## 🛠 Tech Stack
 - Ubuntu 22.04 LTS (IaaS on DigitalOcean)  
 - Apache 2.4 Web Server  
